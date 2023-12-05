@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JEHW
-- 👀 I’m interested in ML, DL, and improving my Python skills.
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in becoming a full stack developer.
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
